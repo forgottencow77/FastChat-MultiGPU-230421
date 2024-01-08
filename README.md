@@ -2,9 +2,12 @@
 An open platform for training, serving, and evaluating large language model based chatbots.
 
 (This code is supposed to Run 13B models on a 24GiB & 6GiB multi-GPU PCs)
-Follow the steps here for installation
-https://note.com/ai_meg/n/n1d86fe88fc86
 
+Follow the steps here for installation
+
+https://qiita.com/riversun/items/c777dd3992d1f524c22e
+
+Starting Command
 python -m fastchat.serve.cli --style rich --model-path lmsys/vicuna-13b-v1.5 --num-gpu 2	
 
 ## Release
