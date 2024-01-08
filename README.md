@@ -8,7 +8,10 @@ Follow the steps here for installation
 https://qiita.com/riversun/items/c777dd3992d1f524c22e
 
 Starting Command
+
 python -m fastchat.serve.cli --style rich --model-path lmsys/vicuna-13b-v1.5 --num-gpu 2	
+
+This is an copy of an OLD Fastchat Repo so some functions wont work. idk
 
 ## Release
 
